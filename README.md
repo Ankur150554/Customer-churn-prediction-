@@ -1,8 +1,6 @@
 **📊 Customer Churn Prediction with Machine Learning**
 
-Author: Kristina Kunceviciute
-Program: Data Part-Time, Barcelona
-Date: December 2019
+
 
 **📌 Project Overview**
 
